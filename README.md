@@ -8,15 +8,20 @@
 
 ## 📚 Sobre este projeto
 
-Este projeto foi desenvolvido durante um dos cursos da **[Alura](https://www.alura.com.br/)**, com o objetivo de consolidar conhecimentos em **[React / HTML / CSS / etc.]** e aplicar boas práticas de desenvolvimento Front-end.
+Este projeto foi desenvolvido durante um dos cursos da **[Alura](https://www.alura.com.br/)**, com o objetivo de consolidar conhecimentos em **React, HTML e CSS**, e aplicar boas práticas de desenvolvimento Front-end.
 
 Durante o curso, trabalhei com:
 
 - ✅ Componentização com React
 - ✅ Boas práticas de estrutura de código
 - ✅ Estilização moderna com CSS
-- ✅ Integração com dados (se houver)
 - ✅ Responsividade e usabilidade
+
+---
+
+## 🔗 Acesse o projeto online
+
+👉 [Clique aqui para visualizar o projeto](https://matheus-nerisxavier.github.io/Portfolio/)
 
 ---
 
@@ -25,18 +30,17 @@ Durante o curso, trabalhei com:
 - React.js
 - JavaScript (ES6+)
 - HTML5 e CSS3
-- [Outras ferramentas usadas no projeto, como Styled-Components, etc.]
 
 ---
 
-## 📁 Como rodar o projeto
+## 📁 Como rodar o projeto localmente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/nome-do-projeto
+git clone https://github.com/matheus-nerisxavier/Portfolio.git
 
 # Acesse a pasta do projeto
-cd nome-do-projeto
+cd Portfolio
 
 # Instale as dependências
 npm install
